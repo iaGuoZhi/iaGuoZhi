@@ -8,3 +8,7 @@ Hi! Here is iaGuoZhi. I mainly focus on operating systems and system virtualizat
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=iaguozhi&layout=compact&langs_count=8&theme=tokyonight&v=2)
 
 wakatime this week
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
