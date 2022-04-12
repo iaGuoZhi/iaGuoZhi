@@ -8,13 +8,11 @@ WeChat ID: `echo -n 'RzE4NjIxODEzMjY4Cg==' | base64 -d`
 
 ![](https://komarev.com/ghpvc/?username=iaGuoZhi&label=Total+Views)
 
-![](https://github-readme-stats.vercel.app/api?username=iaguozhi&show_icons=true&count_private=true&hide=stars&theme=tokyonight)
-
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=iaguozhi&layout=compact&langs_count=8&theme=tokyonight&v=2)
 
 [![wakatime](https://wakatime.com/badge/user/40c44add-ce3a-4894-9063-16f6682bc707.svg)](https://wakatime.com/@40c44add-ce3a-4894-9063-16f6682bc707)  
 _wakatime since 2021.12.13_
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/iaGuoZhi/iaGuoZhi/output/github-contribution-grid-snake.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
-_contribution snake generated with [Platane/snk](https://github.com/Platane/snk)_
+![github contribution grid snake animation](https://raw.githubusercontent.com/iaGuoZhi/iaGuoZhi/output/github-contribution-grid-snake.svg)
