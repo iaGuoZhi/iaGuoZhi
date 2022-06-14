@@ -10,6 +10,6 @@ WeChat ID: `echo -n 'RzE4NjIxODEzMjY4Cg==' | base64 -d`
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=iaguozhi&layout=compact&langs_count=8&theme=tokyonight&v=2)
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/iaGuoZhi/iaGuoZhi/output/github-contribution-grid-snake.svg)
