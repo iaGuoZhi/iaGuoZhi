@@ -8,7 +8,7 @@ WeChat ID: `echo -n 'RzE4NjIxODEzMjY4Cg==' | base64 -d`
 
 ![](https://komarev.com/ghpvc/?username=iaGuoZhi&label=Total+Views)          [![wakatime](https://wakatime.com/badge/user/40c44add-ce3a-4894-9063-16f6682bc707.svg)](https://wakatime.com/@40c44add-ce3a-4894-9063-16f6682bc707)  _wakatime since 2021.12.13_
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=iaguozhi&layout=compact&langs_count=8&theme=tokyonight&v=2)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=iaguozhi&layout=compact&langs_count=12&theme=tokyonight&v=2)
 
 <!---
 ![](./profile-3d-contrib/profile-night-view.svg)
